@@ -1,0 +1,205 @@
+2026-05-06T12:58:23,099 INFO     [utils.py:150] Begin logging.
+2026-05-06T12:58:23,100 DEBUG    [covers.py:81] <__main__.fake_args object at 0x0000021BDCD9ADE0>
+2026-05-06T13:11:01,820 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:11:01,823 DEBUG    [covers.py:81] <__main__.fake_args object at 0x000001F249D936E0>
+2026-05-06T13:12:43,526 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:12:43,527 DEBUG    [covers.py:81] <__main__.fake_args object at 0x00000172D996D2B0>
+2026-05-06T13:13:31,687 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:13:31,687 DEBUG    [covers.py:81] <__main__.fake_args object at 0x0000020A9430D730>
+2026-05-06T13:14:39,096 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:14:39,096 DEBUG    [covers.py:81] <__main__.fake_args object at 0x00000161C1D3F6B0>
+2026-05-06T13:43:11,056 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:43:11,056 DEBUG    [covers.py:103] <__main__.fake_args object at 0x00000191BB48BA70>
+2026-05-06T13:43:33,691 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:43:33,692 DEBUG    [covers.py:103] <__main__.fake_args object at 0x000001FEF6C03770>
+2026-05-06T13:44:08,034 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:44:08,034 DEBUG    [covers.py:103] <__main__.fake_args object at 0x0000020F27DDB7A0>
+2026-05-06T13:44:42,896 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:44:42,897 DEBUG    [covers.py:103] <__main__.fake_args object at 0x000001E8B351BAA0>
+2026-05-06T13:45:35,807 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:45:35,808 DEBUG    [covers.py:103] <__main__.fake_args object at 0x00000157DB82BAA0>
+2026-05-06T13:46:25,611 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:46:25,611 DEBUG    [covers.py:103] <__main__.fake_args object at 0x0000020015153D10>
+2026-05-06T13:48:09,724 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:48:09,724 DEBUG    [covers.py:101] <__main__.fake_args object at 0x000001C59C4ABFB0>
+2026-05-06T13:52:40,291 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:52:40,292 DEBUG    [covers.py:107] <__main__.fake_args object at 0x00000196DF8436E0>
+2026-05-06T13:53:13,009 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:53:13,009 DEBUG    [covers.py:107] <__main__.fake_args object at 0x0000021CFC7337A0>
+2026-05-06T13:53:40,648 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:53:40,649 DEBUG    [covers.py:107] <__main__.fake_args object at 0x000001B85AADD3A0>
+2026-05-06T13:53:57,812 INFO     [utils.py:150] Begin logging.
+2026-05-06T13:53:57,812 DEBUG    [covers.py:107] <__main__.fake_args object at 0x00000148B4069430>
+2026-05-06T14:14:11,369 INFO     [utils.py:150] Begin logging.
+2026-05-06T14:14:11,370 DEBUG    [covers.py:109] <__main__.fake_args object at 0x0000024FDD08D6D0>
+2026-05-07T21:10:32,952 INFO     [utils.py:150] Begin logging.
+2026-05-07T21:10:32,953 DEBUG    [covers.py:171] <__main__.fake_args object at 0x000001FEEF065A30>
+2026-05-07T21:12:04,928 INFO     [utils.py:150] Begin logging.
+2026-05-07T21:12:04,929 DEBUG    [covers.py:171] <__main__.fake_args object at 0x0000016D7D13D8E0>
+2026-05-07T21:19:23,922 INFO     [utils.py:150] Begin logging.
+2026-05-07T21:19:23,922 DEBUG    [covers.py:171] <__main__.fake_args object at 0x000001B60EA25A60>
+2026-05-07T21:26:24,378 INFO     [utils.py:150] Begin logging.
+2026-05-07T21:26:24,379 DEBUG    [covers.py:171] <__main__.fake_args object at 0x000002C8CF2018E0>
+2026-05-07T21:27:18,379 INFO     [utils.py:150] Begin logging.
+2026-05-07T21:27:18,380 DEBUG    [covers.py:171] <__main__.fake_args object at 0x00000260305AF380>
+2026-05-07T21:33:08,240 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T21:34:07,185 INFO     [utils.py:150] Begin logging.
+2026-05-07T21:34:07,185 DEBUG    [covers.py:171] <__main__.fake_args object at 0x000001D0D9C0E7E0>
+2026-05-07T21:35:06,364 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T21:50:05,969 INFO     [utils.py:150] Begin logging.
+2026-05-07T21:50:05,970 DEBUG    [covers.py:171] <__main__.fake_args object at 0x000001808B9F5AF0>
+2026-05-07T22:02:13,860 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T22:02:24,807 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T22:07:36,511 INFO     [utils.py:150] Begin logging.
+2026-05-07T22:07:36,511 DEBUG    [covers.py:170] <__main__.fake_args object at 0x000001265041DB20>
+2026-05-07T22:09:03,516 INFO     [utils.py:150] Begin logging.
+2026-05-07T22:09:03,516 DEBUG    [covers.py:170] <__main__.fake_args object at 0x000001BC974E5B80>
+2026-05-07T22:09:21,365 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T22:09:29,302 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T22:09:32,990 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T22:10:59,301 INFO     [utils.py:150] Begin logging.
+2026-05-07T22:10:59,303 DEBUG    [covers.py:170] <__main__.fake_args object at 0x0000024931F8D8B0>
+2026-05-07T22:11:01,303 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T22:11:03,835 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T22:11:52,930 INFO     [utils.py:150] Begin logging.
+2026-05-07T22:11:52,930 DEBUG    [covers.py:170] <__main__.fake_args object at 0x00000268147A1A30>
+2026-05-07T22:11:55,137 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T22:11:58,080 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-07T22:13:26,960 INFO     [utils.py:150] Begin logging.
+2026-05-07T22:13:26,967 DEBUG    [covers.py:170] <__main__.fake_args object at 0x00000207979BDA60>
+2026-05-07T22:15:48,377 INFO     [utils.py:150] Begin logging.
+2026-05-07T22:15:48,377 DEBUG    [covers.py:170] <__main__.fake_args object at 0x000002540D15DCD0>
+2026-05-07T22:17:06,200 INFO     [utils.py:150] Begin logging.
+2026-05-07T22:17:06,200 DEBUG    [covers.py:170] <__main__.fake_args object at 0x00000192EF6DD9A0>
+2026-05-07T22:17:48,662 INFO     [utils.py:150] Begin logging.
+2026-05-07T22:17:48,662 DEBUG    [covers.py:170] <__main__.fake_args object at 0x0000015AE35EDA60>
+2026-05-08T07:32:16,623 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:32:16,623 DEBUG    [covers.py:170] <__main__.fake_args object at 0x000002256999D730>
+2026-05-08T07:33:05,594 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:33:05,595 DEBUG    [covers.py:172] <__main__.fake_args object at 0x0000026EF0CCD910>
+2026-05-08T07:33:51,338 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:33:51,338 DEBUG    [covers.py:172] <__main__.fake_args object at 0x000001D427EA7BF0>
+2026-05-08T07:34:37,866 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:34:37,866 DEBUG    [covers.py:172] <__main__.fake_args object at 0x0000020E7FF77C80>
+2026-05-08T07:35:13,609 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:35:13,609 DEBUG    [covers.py:172] <__main__.fake_args object at 0x0000020AF1A3B950>
+2026-05-08T07:37:17,370 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:37:17,370 DEBUG    [covers.py:172] <__main__.fake_args object at 0x000002495C187AD0>
+2026-05-08T07:38:41,648 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:38:41,648 DEBUG    [covers.py:172] <__main__.fake_args object at 0x000001DC33FFD9A0>
+2026-05-08T07:39:57,973 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:39:57,973 DEBUG    [covers.py:172] <__main__.fake_args object at 0x000001C44503DBB0>
+2026-05-08T07:41:10,649 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:41:10,649 DEBUG    [covers.py:172] <__main__.fake_args object at 0x000001DECC1FD8E0>
+2026-05-08T07:42:47,160 INFO     [utils.py:150] Begin logging.
+2026-05-08T07:42:47,160 DEBUG    [covers.py:172] <__main__.fake_args object at 0x000001EA81CB7E00>
+2026-05-08T08:16:26,428 INFO     [utils.py:150] Begin logging.
+2026-05-08T08:21:03,704 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:09:21,510 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:09:21,510 DEBUG    [covers.py:175] <__main__.fake_args object at 0x000001F12BE9CBF0>
+2026-05-08T11:10:25,862 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:10:25,862 DEBUG    [covers.py:175] <__main__.fake_args object at 0x0000021F9FE793D0>
+2026-05-08T11:11:19,852 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:11:19,852 DEBUG    [covers.py:175] <__main__.fake_args object at 0x00000202576C96A0>
+2026-05-08T11:20:15,970 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:20:15,970 DEBUG    [covers.py:177] <__main__.fake_args object at 0x00000221BBA01490>
+2026-05-08T11:20:16,081 DEBUG    [PngImagePlugin.py:204] STREAM b'IHDR' 16 13
+2026-05-08T11:20:16,081 DEBUG    [PngImagePlugin.py:204] STREAM b'pHYs' 41 9
+2026-05-08T11:20:16,081 DEBUG    [PngImagePlugin.py:204] STREAM b'IDAT' 62 8192
+2026-05-08T11:20:53,017 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:20:53,028 DEBUG    [covers.py:177] <__main__.fake_args object at 0x000001A222129280>
+2026-05-08T11:20:53,118 DEBUG    [PngImagePlugin.py:204] STREAM b'IHDR' 16 13
+2026-05-08T11:20:53,118 DEBUG    [PngImagePlugin.py:204] STREAM b'pHYs' 41 9
+2026-05-08T11:20:53,118 DEBUG    [PngImagePlugin.py:204] STREAM b'IDAT' 62 8192
+2026-05-08T11:28:04,444 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:28:04,445 DEBUG    [covers.py:177] <__main__.fake_args object at 0x0000022C07D91670>
+2026-05-08T11:28:04,541 DEBUG    [PngImagePlugin.py:204] STREAM b'IHDR' 16 13
+2026-05-08T11:28:04,541 DEBUG    [PngImagePlugin.py:204] STREAM b'pHYs' 41 9
+2026-05-08T11:28:04,541 DEBUG    [PngImagePlugin.py:204] STREAM b'IDAT' 62 8192
+2026-05-08T11:29:12,828 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:29:12,829 DEBUG    [covers.py:177] <__main__.fake_args object at 0x000001D0FE6D9400>
+2026-05-08T11:29:17,029 DEBUG    [PngImagePlugin.py:204] STREAM b'IHDR' 16 13
+2026-05-08T11:29:17,029 DEBUG    [PngImagePlugin.py:204] STREAM b'pHYs' 41 9
+2026-05-08T11:29:17,029 DEBUG    [PngImagePlugin.py:204] STREAM b'IDAT' 62 8192
+2026-05-08T11:30:19,699 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:30:19,699 DEBUG    [covers.py:177] <__main__.fake_args object at 0x000002C4D51294C0>
+2026-05-08T11:30:26,527 DEBUG    [PngImagePlugin.py:204] STREAM b'IHDR' 16 13
+2026-05-08T11:30:26,528 DEBUG    [PngImagePlugin.py:204] STREAM b'pHYs' 41 9
+2026-05-08T11:30:26,528 DEBUG    [PngImagePlugin.py:204] STREAM b'IDAT' 62 8192
+2026-05-08T11:32:36,615 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:32:36,615 DEBUG    [covers.py:177] <__main__.fake_args object at 0x0000020DEAE81760>
+2026-05-08T11:32:43,640 DEBUG    [PngImagePlugin.py:204] STREAM b'IHDR' 16 13
+2026-05-08T11:32:43,640 DEBUG    [PngImagePlugin.py:204] STREAM b'pHYs' 41 9
+2026-05-08T11:32:43,640 DEBUG    [PngImagePlugin.py:204] STREAM b'IDAT' 62 8192
+2026-05-08T11:33:13,650 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:33:13,650 DEBUG    [covers.py:177] <__main__.fake_args object at 0x000001AD030314F0>
+2026-05-08T11:33:16,170 DEBUG    [PngImagePlugin.py:204] STREAM b'IHDR' 16 13
+2026-05-08T11:33:16,171 DEBUG    [PngImagePlugin.py:204] STREAM b'pHYs' 41 9
+2026-05-08T11:33:16,171 DEBUG    [PngImagePlugin.py:204] STREAM b'IDAT' 62 8192
+2026-05-08T11:41:27,338 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:41:27,340 DEBUG    [covers.py:179] <__main__.fake_args object at 0x0000025EF60ED7C0>
+2026-05-08T11:42:05,568 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:42:05,570 DEBUG    [covers.py:179] <__main__.fake_args object at 0x0000026DEE325580>
+2026-05-08T11:46:17,377 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:46:17,377 DEBUG    [covers.py:180] <__main__.fake_args object at 0x000001E1528857C0>
+2026-05-08T11:46:55,119 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:46:55,119 DEBUG    [covers.py:180] <__main__.fake_args object at 0x00000208F03193D0>
+2026-05-08T11:52:26,934 INFO     [utils.py:150] Begin logging.
+2026-05-08T11:52:26,935 DEBUG    [covers.py:175] <__main__.fake_args object at 0x0000025DC01A95B0>
+2026-05-08T13:13:34,679 INFO     [utils.py:150] Begin logging.
+2026-05-08T14:00:13,769 INFO     [utils.py:150] Begin logging.
+2026-05-08T14:01:53,677 INFO     [utils.py:150] Begin logging.
+2026-05-08T14:01:53,678 DEBUG    [covers.py:175] <__main__.fake_args object at 0x000002498B8B9D60>
+2026-05-08T14:01:59,922 INFO     [utils.py:150] Begin logging.
+2026-05-08T14:01:59,922 DEBUG    [covers.py:175] <__main__.fake_args object at 0x0000021F850D9A30>
+2026-05-08T14:02:00,241 DEBUG    [TiffImagePlugin.py:941] tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:02:00,241 DEBUG    [TiffImagePlugin.py:941] tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:02:00,241 DEBUG    [TiffImagePlugin.py:941] tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:02:00,241 DEBUG    [TiffImagePlugin.py:941] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2026-05-08T14:02:00,242 DEBUG    [TiffImagePlugin.py:941] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:02:00,357 DEBUG    [TiffImagePlugin.py:941] tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:02:00,357 DEBUG    [TiffImagePlugin.py:941] tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:02:00,357 DEBUG    [TiffImagePlugin.py:941] tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:02:00,357 DEBUG    [TiffImagePlugin.py:941] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2026-05-08T14:02:00,357 DEBUG    [TiffImagePlugin.py:941] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:02:09,062 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-08T14:02:59,300 INFO     [utils.py:150] Begin logging.
+2026-05-08T14:02:59,301 DEBUG    [covers.py:175] <__main__.fake_args object at 0x000001D52AAD9BB0>
+2026-05-08T14:02:59,609 DEBUG    [TiffImagePlugin.py:941] tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:02:59,609 DEBUG    [TiffImagePlugin.py:941] tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:02:59,609 DEBUG    [TiffImagePlugin.py:941] tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:02:59,609 DEBUG    [TiffImagePlugin.py:941] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2026-05-08T14:02:59,609 DEBUG    [TiffImagePlugin.py:941] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:03:39,844 INFO     [utils.py:150] Begin logging.
+2026-05-08T14:03:39,845 DEBUG    [covers.py:175] <__main__.fake_args object at 0x000002AAE3189C10>
+2026-05-08T14:03:40,149 DEBUG    [TiffImagePlugin.py:941] tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:03:40,149 DEBUG    [TiffImagePlugin.py:941] tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:03:40,149 DEBUG    [TiffImagePlugin.py:941] tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:03:40,149 DEBUG    [TiffImagePlugin.py:941] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2026-05-08T14:03:40,149 DEBUG    [TiffImagePlugin.py:941] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:04:55,264 INFO     [utils.py:150] Begin logging.
+2026-05-08T14:04:55,265 DEBUG    [covers.py:175] <__main__.fake_args object at 0x0000028097329E80>
+2026-05-08T14:04:55,578 DEBUG    [TiffImagePlugin.py:941] tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:04:55,578 DEBUG    [TiffImagePlugin.py:941] tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:04:55,578 DEBUG    [TiffImagePlugin.py:941] tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:04:55,578 DEBUG    [TiffImagePlugin.py:941] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2026-05-08T14:04:55,578 DEBUG    [TiffImagePlugin.py:941] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:04:57,363 DEBUG    [TiffImagePlugin.py:941] tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:04:57,363 DEBUG    [TiffImagePlugin.py:941] tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:04:57,363 DEBUG    [TiffImagePlugin.py:941] tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:04:57,363 DEBUG    [TiffImagePlugin.py:941] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2026-05-08T14:04:57,363 DEBUG    [TiffImagePlugin.py:941] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:05:08,932 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-08T14:08:06,179 INFO     [utils.py:150] Begin logging.
+2026-05-08T14:08:06,180 DEBUG    [covers.py:178] <__main__.fake_args object at 0x000001B2FBE79DF0>
+2026-05-08T14:08:06,412 DEBUG    [TiffImagePlugin.py:941] tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:08:06,412 DEBUG    [TiffImagePlugin.py:941] tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:08:06,412 DEBUG    [TiffImagePlugin.py:941] tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2026-05-08T14:08:06,412 DEBUG    [TiffImagePlugin.py:941] tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2026-05-08T14:08:06,412 DEBUG    [TiffImagePlugin.py:941] tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2026-05-08T14:08:28,985 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-08T15:58:52,024 INFO     [utils.py:150] Begin logging.
+2026-05-08T16:00:48,183 INFO     [utils.py:150] Begin logging.
+2026-05-08T16:00:48,184 DEBUG    [covers.py:178] <__main__.fake_args object at 0x000001CCD4579DC0>
+2026-05-08T16:00:59,200 DEBUG    [TiffImagePlugin.py:941] tag: ExifIFD (34665) - type: long (4) - value: b'\x1a\x00\x00\x00'
+2026-05-08T16:02:01,974 INFO     [utils.py:150] Begin logging.

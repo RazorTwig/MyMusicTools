@@ -1,0 +1,39 @@
+[libraries]
+folder1 = "/path/to/folder1"
+folder2 = "/path/to/some/other/folder"
+
+[convert]
+file_type = "mp3"
+delete_source = 1
+
+[convert.parameters]
+mp3 = ["-codec:a libmp3lame -q 0 -compression_level 0"]
+
+[saving]
+filename = "%filename%"
+
+[saving.mp3]
+id3v2_version = 4
+
+[saving.flac]
+deleteid3 = 1
+
+[covers]
+embed_in_file = "remove"
+save_to_folder = "save"
+filename = "cover"
+resize = "min"
+min_size = 1200
+max_size = 1200000
+
+[lyrics]
+mode = "auto"
+synced_or_plain = ["synced", "plain"]
+embed_in_file = "embed"
+save_to_folder = "remove"
+length_diff = 1.5
+insert_empty = 1
+lang = "ENG"
+
+[logging]
+level = "info"
