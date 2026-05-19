@@ -3,7 +3,8 @@ from utils.utils import utils, log, logging_levels
 from utils.track import Track
 import requests
 from terminaltables import AsciiTable
-
+from ratelimit import limits, sleep_and_retry
+from datetime import timedelta
 
 lrclib_url = 'https://lrclib.net/api'
 headers = {
@@ -24,10 +25,10 @@ headers = {
 def direct_add_lyrics(args):
     if not args.folder:
         log.error('Direct mode must have a file name in the folder argument.')
-        raise DirectModeError('No file specified')
+        raise Exception('No file specified')
     if not args.id:
         log.error('Direct mode must have an id supplied.')
-        raise DirectModeError('No id specified')
+        raise Exception('No id specified')
     
     trk = Track.open(args.folder)
     lyrics_types = args.synced
@@ -212,6 +213,8 @@ def setup_search_params(trk):
     }
     return params
 
+@sleep_and_retry
+@limits(calls=1, period=timedelta(seconds=5).total_seconds())
 def send_request(req_type, params=None):
     req_url = f'{lrclib_url}/{req_type}'
     resp = requests.get(req_url, params, headers=headers)
@@ -272,5 +275,5 @@ def run(args):
 if __name__ == '__main__':
     parser = setup_args()
     args = parser.parse_args()
-    print(args)
+    # print(args)
     run(args)

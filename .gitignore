@@ -65,3 +65,4 @@ test*
 configs.toml
 cover_cache/*
 external_tools/*.exe
+logs/*

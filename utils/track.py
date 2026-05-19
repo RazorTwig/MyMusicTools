@@ -16,6 +16,7 @@ from PIL import Image
 from io import BytesIO
 from hashlib import sha1
 from shutil import copy as sh_copy
+import re
 
 class COMPRESSION_TYPE(IntEnum):
     LOSSLESS = 1
@@ -74,6 +75,9 @@ file_args_aliases = {
 }
 
 class Tag(object):
+    re_tag = r'%([a-zA-Z0-9:<>]*)%'
+    re_format = r'([:<>])'
+
     def __init__(self, e_tag, name, tag_type):
         self.e_tag = e_tag
         self.tag_name = name
@@ -191,7 +195,7 @@ class Cover(object):
         self.height = height
         self.width = width
         buf = BytesIO()
-        self.img.save(buf, format=self.img.format)
+        self.img.save(buf, format='JPEG')
         self.hash = Cover.hash_image(buf)
         self.img_str = buf.getvalue()
 
@@ -441,6 +445,36 @@ class Track(object):
         if from_file.has_cover:
             self.add_cover(from_file.cover_image)
 
+    def tags_to_str(self, str_fmat):
+        str_formatted = str_fmat
+        for tag_format in re.finditer(Tag.re_tag, str_fmat):
+            full_tag = tag_format[0]
+            tag_format = tag_format[1]
+            tag_splits = re.split(Tag.re_format, tag_format)
+            new_val = None
+            tag_name = tag_splits[0]
+            pad_len = 0
+            pad_val = ' '
+            pad_side = 'l'
+            try:
+                if len(tag_splits) == 3 and tag_splits[1] == ':':
+                    pad_len = int(tag_splits[2])
+                if len(tag_splits) == 4 and tag_splits[1] == ':' and tag_splits[3] in ('<', '>'):
+                    pad_len = int(tag_splits[2])
+                    pad_side = 'r' if tag_splits[3] == '>' else 'l'
+                if len(tag_splits) == 5 and tag_splits[1] == ':' and tag_splits[3] in ('<', '>'):
+                    pad_val = tag_splits[2]
+                    pad_side = 'r' if tag_splits[3] == '>' else 'l'
+                    pad_len = int(tag_splits[4])
+            except ValueError:
+                pass
+            if pad_side == 'l':
+                new_val = self[tag_name].ljust(pad_len, pad_val)
+            else:
+                new_val = self[tag_name].rjust(pad_len, pad_val)
+            str_formatted = str_formatted.replace(full_tag, new_val)
+        return str_formatted
+            
     # Stub to be implemented by child classes if necessary
     def clear_tags(self):
         pass
